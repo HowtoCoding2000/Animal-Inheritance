@@ -1,5 +1,5 @@
 
-public class Cow
+public class Cow extends Mammal
 	{
-
+		
 	}
