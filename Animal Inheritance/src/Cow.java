@@ -8,16 +8,15 @@ public class Cow extends Mammal
 			noise = "Moo";
 		}
 		@Override
-		public void eat()
+		public void eats()
 			{
 				// TODO Auto-generated method stub
 				
 			}
-
 		@Override
 		public void makesNoise()
 			{
 				// TODO Auto-generated method stub
-				
+				System.out.println(name + " says " + noise + ".");
 			}
 	}
