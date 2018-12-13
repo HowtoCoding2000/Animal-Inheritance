@@ -1,10 +1,10 @@
 
 public class Cow extends Mammal
 	{
-		public Cow()
+		public Cow(String n, String f, String o)
 		{
-			name = "Big Beef";
-			food = "grass";
-			noise = "Moo";
+			n = name;
+			f = food;
+			o = noise;
 		}
 	}

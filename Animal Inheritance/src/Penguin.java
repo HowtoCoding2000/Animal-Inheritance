@@ -1,10 +1,10 @@
 
 public class Penguin extends Bird
 	{
-		public Penguin()
-		{
-			name = "Mumble";
-			food = "fish";
-			noise = "squak";
-		}
+		public Penguin(String n, String f, String o)
+			{
+				n = name;
+				f = food;
+				o = noise;
+			}
 	}

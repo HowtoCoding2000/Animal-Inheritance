@@ -1,11 +1,11 @@
 
 public class Bat extends Mammal
 	{
-	public Bat()
+	public Bat(String n, String f, String o)
 		{
-			name = "Fang";
-			food = "bugs";
-			noise = "sonic pulse";
+			n = name;
+			f = food;
+			o = noise;
 		}
 	@Override
 	public void makesNoise()

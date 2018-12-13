@@ -1,10 +1,10 @@
 
 public class Robin extends Bird
 	{
-	public Robin()
+	public Robin(String n, String f, String o)
 		{
-			name = "Red";
-			food = "worms";
-			noise = "Tweet tweet";
+			n = name;
+			f = food;
+			o = noise;
 		}
 	}
