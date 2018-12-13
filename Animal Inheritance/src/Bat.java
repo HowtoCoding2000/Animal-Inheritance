@@ -8,13 +8,6 @@ public class Bat extends Mammal
 			noise = "sonic pulse";
 		}
 	@Override
-	public void eats()
-		{
-			// TODO Auto-generated method stub
-			
-		}
-
-	@Override
 	public void makesNoise()
 		{
 			// TODO Auto-generated method stub

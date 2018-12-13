@@ -7,18 +7,4 @@ public class Robin extends Bird
 			food = "worms";
 			noise = "Tweet tweet";
 		}
-	@Override
-	public void eats()
-		{
-			// TODO Auto-generated method stub
-			
-		}
-
-	@Override
-	public void makesNoise()
-		{
-			// TODO Auto-generated method stub
-			
-		}
-
 	}
