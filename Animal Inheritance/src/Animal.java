@@ -5,6 +5,9 @@ public abstract class Animal
 		protected String food;
 		protected String noise;
 		public abstract void bearsYoung();
-		public abstract void eat();
+		public abstract void eats();
+			{
+				System.out.println(name + " eats " + food + ".");
+			}
 		public abstract void makesNoise();
 	}
