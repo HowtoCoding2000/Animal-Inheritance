@@ -13,6 +13,7 @@ public class AnimalRunner
 						a.bearsYoung();
 						a.eats();
 						a.makesNoise();
+						System.out.println();
 					}
 			}
 	}
