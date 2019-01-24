@@ -1,5 +1,5 @@
 
-public class Bat extends Mammal
+public class Bat extends Mammal implements Flyable
 	{
 	public Bat(String n, String f, String o)
 		{
